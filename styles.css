@@ -1,0 +1,218 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(notebook-glasses-crop-laptop-near-coffee.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    width: 100%;
+}
+
+.navbar{
+    background-color: rgb(52, 33, 224);
+    opacity: 0.8;
+}
+
+.navbar-tags:hover{
+    color: rgb(247, 187, 7);
+}
+
+#job-image{
+    width: 50px;
+    align-items: start;
+    margin-right: 20%;
+}
+
+table{
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: large;
+}
+
+#button{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:yellow;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-size:large;
+    margin-top: 10vh;
+    color: white;
+}
+
+.para{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 55px;
+    margin-top: 0vh;
+    color: white;
+}
+
+#div2{
+    margin-left: 23vw;
+    background-color: white;
+    display: inline-block;
+    padding: 5px 0px 5px 15px;
+}
+
+.button1:active{
+    background-color: gray;
+}
+
+#div3{
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    margin-left: 23vw;
+    padding: 5px 5px 5px 15px;
+}
+
+.int{
+    width: 200px;
+    height: 4vh;
+    border: 2px solid #03012C;
+    margin-right: 0.5vw;
+}
+
+#sel{
+    height: 4.9vh;
+}
+
+#butt-search{
+    width: 80px;
+    height: 5vh;
+    background-color: rgb(3, 49, 3);
+    color: white;
+    border-radius: 50%;
+}
+
+#typ{
+    margin-right: 2vw;
+}
+
+#button:hover{
+    background-color: #8AC6D0;
+    font-size: 18px;
+}
+
+.button1{
+    width: 170px;
+    height: 6vh;
+    margin-right: 1.5vw;
+}
+
+#div4{
+    background-color: white;
+    padding: 55px;
+}
+
+#div4-para{
+    color: cadetblue;
+    font-size: large;
+    margin-top: 0px;
+}
+
+#div4-h1{
+    text-align: center;
+    font-size: 55px;
+    margin-top: 0vh;
+}
+
+#image1,#image2,#image3,#image4,#image5,#image6,#image7,#image8{
+    width: 50px;
+}
+
+
+#table-2{
+    width: 100%;
+    text-transform: capitalize;
+}
+
+.table-3{
+    border: 15px solid white;
+    padding: 12px;
+}
+
+.table-3:hover{
+    color: red;
+    background-color: #B8F3FF;
+    transform: scale(0.9);
+}
+
+.span{
+    color: rgb(7, 109, 112);
+}
+
+#footer{
+    background-color: rgb(78, 3, 3);
+    margin-top: 0px;
+}
+
+#para1{
+    margin-top: 0px;
+    padding-top: 30px;
+}
+
+#para2{
+    margin-top: 50px;
+}
+
+#img21{
+    width: 17px;
+}
+
+.anchor{
+    margin-right: 10px;
+}
+
+.span1{
+    margin-right: 10px;
+}
+
+.social-media{
+    width: 30px;
+    margin-top: 1.3vh;
+    margin-right: 1.3vw;
+}
+
+#developer{
+    text-align: right;
+    margin-top: 10px;
+}
+
+#name{
+    color: #B8F3FF;
+}
+
+.results-container {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+
+.result-item {
+    background-color: #e0e0e0;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.result-item h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.result-item p {
+    margin: 5px 0;
+}
